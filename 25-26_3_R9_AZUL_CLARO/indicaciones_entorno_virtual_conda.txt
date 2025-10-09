@@ -1,1 +1,1 @@
-conda env create --file entorno_NARANJA_R8.yml
+conda env create --file entorno_AZUL_CLARO_R9.yml
